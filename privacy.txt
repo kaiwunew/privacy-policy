@@ -1,0 +1,9 @@
+Privacy Policy for Nest Home Assistant Integration (personal use)
+
+This project is used for personal home automation. We do not collect,
+store, or share any personal information of users. Data exchanged with
+Google services is limited to what is required for the Nest thermostat
+integration to function.
+
+Contact: via GitHub account kaiwunew
+Last updated: 2026-10-12
